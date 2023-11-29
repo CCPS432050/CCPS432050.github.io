@@ -1,1 +1,29 @@
+P{
+font-family:-arial;
+  color:red:
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+  footer{
+    margin-top: 50px;
+    text-align: cneter;
+  }
+  h1{
+    font-size: 36px;
+    padding: 15px;
+  }
+  ol{
+    list-style: square;
+    color: seagreen
+  }
+  header{
+    text-align: center;
+    margin-top: 5px;
+  }
+  body{
+    bacground: #EEE;
+    margin: 0;
+  }
 
